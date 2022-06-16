@@ -1,2 +1,0 @@
-# Mapsme
-for da maps
